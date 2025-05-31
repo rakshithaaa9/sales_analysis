@@ -1,2 +1,4 @@
-# sales_analysis
-This project analyzes retail sales data collected during the Diwali festival season in India. The goal is to uncover valuable business insights about customer purchasing behavior, product performance, and demographic trends to support data-driven marketing and sales strategies.
+Sales_Analysis
+
+This repository contains a detailed sales analysis project focused on Diwali sales data using Python. The project demonstrates exploratory data analysis (EDA), data visualization, and insights extraction to understand sales patterns during the Diwali festival.
+
